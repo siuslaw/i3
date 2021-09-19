@@ -1,2 +1,2 @@
 # i3
-my i3wm config
+my amazing i3wm config
